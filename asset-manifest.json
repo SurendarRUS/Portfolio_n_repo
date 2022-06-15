@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.43641634.css",
-    "main.js": "/react-gh-pages/static/js/main.13ab67e4.js",
-    "static/js/787.606ec1d7.chunk.js": "/react-gh-pages/static/js/787.606ec1d7.chunk.js",
-    "static/media/myself.jpg": "/react-gh-pages/static/media/myself.91e67071f975b22b8e8c.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.43641634.css.map": "/react-gh-pages/static/css/main.43641634.css.map",
-    "main.13ab67e4.js.map": "/react-gh-pages/static/js/main.13ab67e4.js.map",
-    "787.606ec1d7.chunk.js.map": "/react-gh-pages/static/js/787.606ec1d7.chunk.js.map"
+    "main.css": "/Portfolio_n_repo/static/css/main.43641634.css",
+    "main.js": "/Portfolio_n_repo/static/js/main.baa3c14c.js",
+    "static/js/787.606ec1d7.chunk.js": "/Portfolio_n_repo/static/js/787.606ec1d7.chunk.js",
+    "static/media/myself.jpg": "/Portfolio_n_repo/static/media/myself.91e67071f975b22b8e8c.jpg",
+    "index.html": "/Portfolio_n_repo/index.html",
+    "main.43641634.css.map": "/Portfolio_n_repo/static/css/main.43641634.css.map",
+    "main.baa3c14c.js.map": "/Portfolio_n_repo/static/js/main.baa3c14c.js.map",
+    "787.606ec1d7.chunk.js.map": "/Portfolio_n_repo/static/js/787.606ec1d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43641634.css",
-    "static/js/main.13ab67e4.js"
+    "static/js/main.baa3c14c.js"
   ]
 }
