@@ -25,8 +25,8 @@ function Profile(){
                       <div className="card-body bg-dark justify-content-center border-0">
                         <p className="text-light justify-contents-between">
                           <span className="me-1 h2"><nobr>Surendar S</nobr></span><span className="h6 text-info"><nobr><nobr>Front-End</nobr><nobr> Developer</nobr></nobr></span></p>
-                        <a href='https://www.instagram.com/surendar777' target='_blank' rel='noreferrer' className="btn btn-sm btn-outline-danger"><FontAwesomeIcon icon={faInstagram} /></a>
-                        <a href='https://www.linkedin.com/surendar777' target='_blank' rel='noreferrer' className="btn btn-sm btn-outline-info mx-2"><FontAwesomeIcon icon={faLinkedin} /></a>
+                        <a href='https://www.instagram.com/surendar__s' target='_blank' rel='noreferrer' className="btn btn-sm btn-outline-danger"><FontAwesomeIcon icon={faInstagram} /></a>
+                        <a href='https://www.linkedin.com/in/surendar-s-aa50891a0' target='_blank' rel='noreferrer' className="btn btn-sm btn-outline-info mx-2"><FontAwesomeIcon icon={faLinkedin} /></a>
                       </div>
                       <div className="card-footer bg-dark border-top-0">
                         <button className="btn btn-lg btn-outline-info" onClick={openRead}>Myself</button>
