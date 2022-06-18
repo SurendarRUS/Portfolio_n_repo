@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import {faInstagram, faLinkedin} from "@fortawesome/free-brands-svg-icons"
-import image from "../src/myself.jpg"
+import image from "../src/surendar.png"
 
 function Profile(){
   
